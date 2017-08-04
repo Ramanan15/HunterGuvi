@@ -2,10 +2,10 @@ import java.util.*;
 public class Pro1 {
 public static void main(String[] args) {
 	String []str=new String[4];
-	str[0]="hai My Name is bala";
-	str[1]="hai My Name was Bala at once";
-	str[2]="hai My Name Bala is good";
-	str[3]="hai My Name bala is short";
+	str[0] = "hai My Name is Ramanan";
+	str[1] = "hai My Name was Ramanan at once";
+	str[2] = "hai My Name Bala is good";
+	str[3] = "hai My Name bala is short";
 	String res=str[0];
 	String s2="";
 		for(int j=1;j<str.length;j++) {
